@@ -248,7 +248,7 @@ const LayoutSlug = props => {
                             {/* 版权 */}
                             {/* <ArticleCopyright {...props} /> */}
                             {/* 文章推荐 */}
-                            <ArticleRecommend {...props} />
+                            {/* <ArticleRecommend {...props} /> */}
                             {/* 上一篇\下一篇文章 */}
                             <ArticleAdjacent {...props} />
                         </div>}
